@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Coin Market Cap</title>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+        <style>
+
+            h5 {font-weight: 800;}
+
+            .form{text-align: center; font: 12pt verdana;}
+
+            .media {border-bottom: 1px solid gray;}
+
+            .rodape p{text-align: center; font: 9pt verdana; color: #808080;}
+
+            footer a {color: #808080;}
+
+            footer a:hover {color: rgb(184, 184, 184); font-weight: bolder;}
+
+        </style>
+    </head>
+
+    <body>
+
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+            <li class="breadcrumb-item active" aria-current="page">Coin Market Cap</li>
+            </ol>
+        </nav>
+
+        <div class="form">
+            <p>Digite sua API Key do Coin Market Cap: <br><br>
+            <input type="text" id="txtn">
+            <input type="button" value="Show Coins" onclick="chave()"></p>
+        </div>
+    
+        <div class="d-flex p-3 bd-highlight">
+            <div id='coins'></div>
+        </div>
+
+        <script type="text/javascript">
+        
+        //APY key do projeto original - var apikey = {key: 'A chave pessoal iria aqui!'}
+
+        function chave() {
+            var apikey = document.getElementById('txtn');
+
+           
+        //GET fetch Requisition
+            fetch('https://pro-api.coinmarketcap.com/v1/cryptocurrency/map?CMC_PRO_API_KEY=' + apikey.value)
+            .then((response) => {
+                if(!response.ok) throw new Error('Erro ao executar a requisição, status ' + response.status);
+                return response.json();
+            })
+            .then((api) => {
+                var texto = "";
+
+                // GET 10 coins and symbols
+                for (let i=0; i < 10; i++) {
+
+                    //Show API information
+                    texto = texto + `
+
+                        <div class="media">
+                            <img src="dgb.svg" class="align-self-center mr-3" alt="coin" width="100" height="60">
+                            <div class="media-body">
+                            <h5 class="mt-2">${api.data[i].name}</h5>
+                            <p>Símbolo: ${api.data[i].symbol}</p>
+                            <p>Primeira Data Histórica: ${api.data[i].first_historical_data}</p>
+                            </div>
+                        </div>                    
+                    `;
+
+                    document.getElementById("coins").innerHTML = texto;
+                }// first_historical_data exercício proposto pela especialista para resolvermos e trazer a data na interface.
+            })
+            .catch((error) => {
+                console.error(error.message);
+            });
+        }
+
+        </script>
+
+        <footer class="rodape">
+            <p>&copy;<strong>Daniani Thozeski 2020</strong><br>
+            <a href="http://www.linkedin.com/in/danianith" target="_blank">LinkedIn</a> | <a href="http://www.github.com/danianith" target="_blank">GitHub</a></p>
+        </footer>
+        
+    </body>
+</html>
