@@ -359,8 +359,8 @@ ________________________________________________________________________________
 
 Aprenda a fazer uma requisição de uma API de Criptomoeda com JavaScript. Para você que está começando a carreira de TI e gostaria de manipular APIs além de exibir essas informações em uma página web responsiva. Partes 1 até 3. Especialista: Bárbara Casac.
 
-Projeto 1/1 - Básico - 2 hrs - <a href="">Certificado</a> <br>
-<a href="">Acesse minha página aqui</a>
+Projeto 1/1 - Básico - 2 hrs - <a href="https://certificates.digitalinnovation.one/33904921">Certificado</a> <br>
+<a href="https://danianith.github.io/BootCamp_React_Web_Developer/projeto_API_criptomoedas/index.html">Acesse minha página aqui</a>
 
 _______________________________________________________________________________________________________________________________________________________________________
 
