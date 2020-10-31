@@ -1,8 +1,7 @@
 
 ## <a href="https://web.digitalinnovation.one/track/react-web-developer">_BootCamp React Web Developer_</a>
-##### Intermediário - 31 atividades - 80 hrs.
 
-React.js é uma das principais bibliotecas da linguagem JavaScript utilizada por desenvolvedores do mundo inteiro e grandes empresas como Netflix, Instagram e Airbnb. Nesse bootcamp você aprenderá os conceitos e práticas do React.js essenciais para o mercado de trabalho.
+React.js é uma das principais bibliotecas da linguagem JavaScript utilizada por desenvolvedores do mundo inteiro e grandes empresas como Netflix, Instagram e Airbnb. Nesse bootcamp você aprenderá os conceitos e práticas do React.js essenciais para o mercado de trabalho.<br>**Nível Intermediário - 31 atividades - 80 hrs.**
 
 #### Repositório de Exercícios e Projetos desenvolvidos no BootCamp React Web Developer da Digital Innovation One.
 
@@ -10,157 +9,157 @@ React.js é uma das principais bibliotecas da linguagem JavaScript utilizada por
 
 <a href="">Certificado de conclusão do Bootcamp</a>
 
-_______________________________________________________________________________________________________________________________________________________________________
+---
 
-#### Atividades do Bootcamp
+### Atividades do Bootcamp
 
-##### 01 - Bem-vindo à DIO
+#### 01 - Bem-vindo à DIO
 
 Seja bem-vindo à Digital Innovation One, o maior ecossistema open education em desenvolvimento de software da América Latina. Você vai começar agora uma jornada para criar o seu currículo com portfólio de projetos inovadores e acelerar a sua carreira para conquistar grandes oportunidades. Especialista: Iglá Generoso.
 
 Aulas 1/1 - Básico - 1 hrs - <a href="https://certificates.digitalinnovation.one/607FE76F">Certificado</a>
 
-_______________________________________________________________________________________________________________________________________________________________________
+---
 
-##### 02 - Lógica de programação essencial
+#### 02 - Lógica de programação essencial
 
 Lógica de programação é a forma como o desenvolvedor entende a comunicação a fim de programar uma função de um programa. Faz uso de algoritmos, que são sequências de passos bem estabelecidos, como por exemplo, uma receita de bolo. Especialista: Denilson Bonatti.
 
-* Introdução à lógica e à programação
-- Entendendo o que é lógica
-- O que são algoritmos e pseudocódigo
-- Aprendendo fluxograma, variáveis e constantes
-- Tomadas de decisões e expressões
-- Como utilizar a concatenação
-- Certifique seu conhecimento
+* **Introdução à lógica e à programação**
+  - Entendendo o que é lógica
+  - O que são algoritmos e pseudocódigo
+  - Aprendendo fluxograma, variáveis e constantes
+  - Tomadas de decisões e expressões
+  - Como utilizar a concatenação
+  - Certifique seu conhecimento
 
-* Introdução ao Portugol
-- Aprenda como utilizar uma estrutura de repetição
-- O que são linguagens de programação?
-- Aprenda a utilizar desvios condicionais e boas práticas em programação
-- Trabalhando com laços de repetição em Portugol
-- Aplicação prática com matrizes e vetores
-- Certifique seu conhecimento
+* **Introdução ao Portugol**
+  - Aprenda como utilizar uma estrutura de repetição
+  - O que são linguagens de programação?
+  - Aprenda a utilizar desvios condicionais e boas práticas em programação 
+  - Trabalhando com laços de repetição em Portugol
+  - Aplicação prática com matrizes e vetores
+  - Certifique seu conhecimento
 
 Aulas 2/2 - Básico - 4 hrs - <a href="https://certificates.digitalinnovation.one/AACA2ACD">Certificado</a> 
 
-_______________________________________________________________________________________________________________________________________________________________________
+---
 
-##### 03 - Introdução ao Git e ao GitHub
+#### 03 - Introdução ao Git e ao GitHub
 
 Nesse curso vamos aprender um pouco da história do Git e como ele se tornou essencial para otimizar projetos dos desenvolvedores. Também vamos conhecer seus principais comandos, como funciona a plataforma e como ela pode simplificar o seu trabalho. Especialista: Otávio Reis.
 
-* Introdução ao Git 
-    Entendendo o que é Git e sua importância
-    Certifique seu conhecimento
+* **Introdução ao Git**
+  - Entendendo o que é Git e sua importância
+  - Certifique seu conhecimento
 
-* Navegação via command line interface e instalação
-    Comandos básicos para um bom desempenho no terminal
-    Ressaltando as principais diferenças entre os sistemas operacionais
-    Certifique seu conhecimento
+* **Navegação via command line interface e instalação**
+  - Comandos básicos para um bom desempenho no terminal
+  - Ressaltando as principais diferenças entre os sistemas operacionais
+  - Certifique seu conhecimento
 
-* Entendendo como o Git funciona por baixo dos panos
-    Tópicos fundamentais para entender o funcionamento do Git
-    Objetos internos do Git
-    Certifique seu conhecimento
+* **Entendendo como o Git funciona por baixo dos panos**
+  - Tópicos fundamentais para entender o funcionamento do Git
+  - Objetos internos do Git
+  - Certifique seu conhecimento
 
-* Primeiros comandos com Git
-    Iniciando o Git e criando um commit
-    Certifique seu conhecimento
+* **Primeiros comandos com Git**
+  - Iniciando o Git e criando um commit
+  - Certifique seu conhecimento
 
-* Ciclo de vida dos arquivos no Git
-    Passo a passo no ciclo de vida
-    Certifique seu conhecimento
+* **Ciclo de vida dos arquivos no Git**
+  - Passo a passo no ciclo de vida
+  - Certifique seu conhecimento
 
-* Introdução ao GitHub
-    Trabalhando com o GitHub
-    Certifique seu conhecimento
+* **Introdução ao GitHub**
+  - Trabalhando com o GitHub
+  - Certifique seu conhecimento
 
-* Resolvendo conflitos
-    Como os conflitos acontecem no GitHub e como resolvê-los
-    Certifique seu conhecimento
+* **Resolvendo conflitos**
+  - Como os conflitos acontecem no GitHub e como resolvê-los
+  - Certifique seu conhecimento
 
 Aulas 7/7 - Básico - 5 hrs - <a href="https://certificates.digitalinnovation.one/4A619522">Certificado</a> 
 
-_______________________________________________________________________________________________________________________________________________________________________
+---
 
-##### 04 - Fundamentos de Arquitetura de Sistemas
+#### 04 - Fundamentos de Arquitetura de Sistemas
 
 Aprenda nesse curso sobre como funcionam as arquiteturas de softwares, seus conceitos, aplicações e desenvolvimento de operações. Especialista: Rafael Galleani.
 
-* Vantagens e desenvolvimento de Web Services
-    O que são Web Services
-    Estrutura SOAP
-    Entendendo o que é WSDL e XSD
-    Aprenda o que são REST, API e JSON
-    Veja sobre integração com REST e métodos HTTP na prática
-    Certifique seu conhecimento
+* **Vantagens e desenvolvimento de Web Services**
+  - O que são Web Services
+  - Estrutura SOAP
+  - Entendendo o que é WSDL e XSD
+  - Aprenda o que são REST, API e JSON
+  - Veja sobre integração com REST e métodos HTTP na prática
+  - Certifique seu conhecimento
 
-* Conceitos de arquitetura em aplicações para Internet
-    Introdução a arquitetura de sistemas
-    Comparando os modelos Monolito e Microserviços
-    Gerenciamento de erros e volume de acesso
-    Certifique seu conhecimento
+* **Conceitos de arquitetura em aplicações para Internet**
+  - Introdução a arquitetura de sistemas
+  - Comparando os modelos Monolito e Microserviços
+  - Gerenciamento de erros e volume de acesso
+  - Certifique seu conhecimento
 
-* A arquitetura de aplicações móveis e internet das coisas
-    Conceitos da Internet das Coisas
-    Arquitetura da internet das coisas e protocolo de comunicação
-    Flexibilidade dos tópicos e Cloud
-    Estudo de caso
-    Certifique seu conhecimento
+* **A arquitetura de aplicações móveis e internet das coisas**
+  - Conceitos da Internet das Coisas
+  - Arquitetura da internet das coisas e protocolo de comunicação
+  - Flexibilidade dos tópicos e Cloud
+  - Estudo de caso
+  - Certifique seu conhecimento
 
-* Arquitetura de dados essencial
-    Conceitos introdutórios e o que é um banco de dados
-    Banco de dados relacionais
-    SGDBR - SQL
-    Transactions
-    SGDBR na prática
-    Criando banco de dados
-    Certifique seu conhecimento
+* **Arquitetura de dados essencial**
+  - Conceitos introdutórios e o que é um banco de dados
+  - Banco de dados relacionais
+  - SGDBR - SQL
+  - Transactions
+  - SGDBR na prática
+  - Criando banco de dados
+  - Certifique seu conhecimento
 
 Aulas 4/4 - Básico - 6 hrs - <a href="https://certificates.digitalinnovation.one/0BD2C7E6">Certificado</a> 
 
-_______________________________________________________________________________________________________________________________________________________________________
+---
 
-##### 05 - Introdução a criação de websites com HTML5 e CSS3
+#### 05 - Introdução a criação de websites com HTML5 e CSS3
 
 Nesse curso o especialista vai contar um pouco sobre a história do HTML5 e do CSS3, explicar como funciona a estrutura básica dessas tecnologias, sua semântica, principais elementos e comandos. Especialista: Lucas Vilaboim.
 
-* Introdução ao curso de HTML
-    Estrutura básica
-    Material de apoio
+* **Introdução ao curso de HTML**
+  - Estrutura básica
+  - Material de apoio
 
-* Entendendo o que é semântica
-    Semântica - Parte 1
-    Semântica - Parte 2
+* **Entendendo o que é semântica**
+  - Semântica - Parte 1
+  - Semântica - Parte 2
 
-* Como usar textos e links em HTML
-    Tags para textos
-    Tags para links
-    Exercício prático
+* **Como usar textos e links em HTML**
+  - Tags para textos
+  - Tags para links
+  - Exercício prático
 
-* Como inserir imagens em seu site
-    Tag img
-    Exercício prático
+* **Como inserir imagens em seu site**
+  - Tag img
+  - Exercício prático
 
-* Como organizar listas com HTML
-    Tags li, ul e ol
-    Exercício prático
-    Certifique seu conhecimento
+* **Como organizar listas com HTML**
+  - Tags li, ul e ol
+  - Exercício prático
+  - Certifique seu conhecimento
 
-* Introdução e conceitos básicos do CSS3
-    Introdução ao CSS3
-    Conceitos básicos
-    Material de apoio
+* **Introdução e conceitos básicos do CSS3**
+  - Introdução ao CSS3
+  - Conceitos básicos
+  - Material de apoio
 
-* Estilizando elementos, textos e listas
-    Estilizando elementos
-    Estilizando textos
-    Estilizando listas
+* **Estilizando elementos, textos e listas**
+  - Estilizando elementos
+  - Estilizando textos
+  - Estilizando listas
 
-* Dimensão e alinhamento
-    Propriedades de dimensões e alinhamento
-    Certifique seu conhecimento
+* **Dimensão e alinhamento**
+  - Propriedades de dimensões e alinhamento
+  - Certifique seu conhecimento
 
 Aulas 8/8 - Básico - 6 hrs - <a href="https://certificates.digitalinnovation.one/1A9A2993">Certificado</a><br>
 <a href="https://github.com/danianith/BootCamp_JavaScript_Game_Developer/tree/master/int_html5_css3">Repositório</a>
@@ -280,7 +279,8 @@ ________________________________________________________________________________
 
 Nesse desafio de codificação você irá praticar através do desenvolvimento de algoritmos os conceitos de pensamento computacional apresentados nas aulas e exercícios anteriores.
 
-Desafios 4/5 - Básico
+Desafios 5/5 - Básico
+<a href="">Repositório</a>
 
 _______________________________________________________________________________________________________________________________________________________________________
 
