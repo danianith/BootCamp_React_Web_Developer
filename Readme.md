@@ -164,44 +164,44 @@ Nesse curso o especialista vai contar um pouco sobre a história do HTML5 e do C
 Aulas 8/8 - Básico - 6 hrs - <a href="https://certificates.digitalinnovation.one/1A9A2993">Certificado</a><br>
 <a href="https://github.com/danianith/BootCamp_JavaScript_Game_Developer/tree/master/int_html5_css3">Repositório</a>
 
-_______________________________________________________________________________________________________________________________________________________________________
+---
 
-##### 06 - Conceitos de responsividade e experiência do usuário
+#### 06 - Conceitos de responsividade e experiência do usuário
 
 Esse curso vai ensinar sobre a experiência do usuário e interface do usuário, ou seja, como ele interage com a plataforma web, se ela é intuitiva e de fácil entendimento para quem acessa. Especialista: Alex Cortes.
 
 * Conceitos de responsividade e experiência do usuário
-    Tópicos introdutórios sobre UX e UI
-    Cores da interface
-    Componentes da Interface do Usuário
-    Como aplicar os conceitos em projetos
-    Bibliografia complementar e dicas do especialista
-    Certifique seu conhecimento
+  - Tópicos introdutórios sobre UX e UI
+  - Cores da interface
+  - Componentes da Interface do Usuário
+  - Como aplicar os conceitos em projetos
+  - Bibliografia complementar e dicas do especialista
+  - Certifique seu conhecimento
 
 Aulas 1/1 - Intermediário - 1 hrs - <a href="https://certificates.digitalinnovation.one/40697925">Certificado</a> 
 
-_______________________________________________________________________________________________________________________________________________________________________
+---
 
-##### 07 - Programação para internet com JavaScript
+#### 07 - Programação para internet com JavaScript
 
 JavaScript é uma das mais importantes linguagens front-end, e nesse curso você entenderá o porquê disso e como trabalhar com ela. Especialista: Rafael Galleani.
 
-* Introdução ao JavaScript
-    Introdução ao JavaScript
-    Array e Dicionário
-    Condicionais, laços de repetição e Date
-    Certifique seu conhecimento
+* **Introdução ao JavaScript**
+  - Introdução ao JavaScript
+  - Array e Dicionário
+  - Condicionais, laços de repetição e Date
+  - Certifique seu conhecimento
 
-* Desenvolva páginas web com JavaScript
-    Desenvolva páginas web com JavaScript
-    Parte 2: Manipulando elementos da página
-    Certifique seu conhecimento
+* **Desenvolva páginas web com JavaScript**
+  - Desenvolva páginas web com JavaScript
+  - Parte 2: Manipulando elementos da página
+  - Certifique seu conhecimento
 
 Aulas 2/2 - Básico - 2 hrs - <a href="https://certificates.digitalinnovation.one/53DF9A1A">Certificado</a>
 
-_______________________________________________________________________________________________________________________________________________________________________
+---
 
-##### 08 - Recriando a página inicial do Instagram
+#### 08 - Recriando a página inicial do Instagram
 
 Página de login do Instagram: nesse projeto, será abordado o conceito sobre CSS Flexbox e responsividade, preparando os alunos para as aulas de jogos, nas quais será utilizado o CSS junto ao JavaScript para estilização e posicionamento. Partes 1 até 4. Epecialista: Gabriela Pinheiro.
 
