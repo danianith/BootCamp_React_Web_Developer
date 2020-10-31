@@ -25,7 +25,7 @@ Aulas 1/1 - Básico - 1 hrs - <a href="https://certificates.digitalinnovation.on
 
 Lógica de programação é a forma como o desenvolvedor entende a comunicação a fim de programar uma função de um programa. Faz uso de algoritmos, que são sequências de passos bem estabelecidos, como por exemplo, uma receita de bolo. Especialista: Denilson Bonatti.
 
-* **Introdução à lógica e à programação**
+* *Introdução à lógica e à programação*
   - Entendendo o que é lógica
   - O que são algoritmos e pseudocódigo
   - Aprendendo fluxograma, variáveis e constantes
@@ -33,7 +33,7 @@ Lógica de programação é a forma como o desenvolvedor entende a comunicação
   - Como utilizar a concatenação
   - Certifique seu conhecimento
 
-* **Introdução ao Portugol**
+* *Introdução ao Portugol*
   - Aprenda como utilizar uma estrutura de repetição
   - O que são linguagens de programação?
   - Aprenda a utilizar desvios condicionais e boas práticas em programação 
