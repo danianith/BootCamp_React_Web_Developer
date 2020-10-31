@@ -229,145 +229,136 @@ Projeto 1/1 - Avançado - 5 hrs - <a href="https://certificates.digitalinnovatio
 
 ---
 
-##### 11 - Introdução a Programação
+#### 11 - Introdução a Programação
 
 Nesse desafio de codificação você irá praticar através do desenvolvimento de algoritmos os conceitos de pensamento computacional apresentados nas aulas e exercícios anteriores.
 
-Desafios 3/3 - Básico
+Desafios 3/3 - Básico - <a href="https://github.com/danianith/BootCamp_React_Web_Developer/tree/main/desafios_de_js_intProg">Repositório</a>
 
-_______________________________________________________________________________________________________________________________________________________________________
+---
 
-##### 12 - Desenvolvendo um jogo da memória
+#### 12 - Desenvolvendo um jogo da memória
 
 Nesse projeto, o desafio será criar um jogo da memória utilizando apenas HTML, CSS e Javascript. Com poucas linhas de código, aprenderemos juntos a trabalhar com efeitos 3D no CSS e lógica de programação utilizando condicionais, Immediately Invoked Function Expression e manipulação de Array em um projeto super divertido. Partes 1 até 7. Especialista: Gabriela Pinheiro.
 
 Projeto 1/1 - Básico - 2 hrs - <a href="https://certificates.digitalinnovation.one/B3570C1F">Certificado</a><br>
 <a href="https://github.com/danianith/BootCamp_JavaScript_Game_Developer/tree/master/projeto_jogo_memoria">Repositório</a>
 
-_______________________________________________________________________________________________________________________________________________________________________
+---
 
-##### 13 - Desmistificando map, filter e reduce
+#### 13 - Desmistificando map, filter e reduce
 
 Aprenda como e quando utilizar map, filter e reduce em JavaScript. Especialista Caio Delgado.
 
 Aulas 1/1 - Básico - 1 hrs - <a href="https://certificates.digitalinnovation.one/D75217E6">Certificado</a>
 
-_______________________________________________________________________________________________________________________________________________________________________
+---
 
-##### 14 - Problemas Aritméticos
+#### 14 - Problemas Aritméticos
 
 Nesse desafio de codificação você irá praticar através do desenvolvimento de algoritmos os conceitos de pensamento computacional apresentados nas aulas e exercícios anteriores.
 
-Desafios 5/5 - Básico
-<a href="">Repositório</a>
+Desafios 5/5 - Básico - <a href="https://github.com/danianith/BootCamp_React_Web_Developer/tree/main/desafios_de_js_problemas_aritm">Repositório</a>
 
-_______________________________________________________________________________________________________________________________________________________________________
+---
 
-##### 15 - Desenvolvimento avançado com JavaScript ES6
+#### 15 - Desenvolvimento avançado com JavaScript ES6
 
 Aprenda a trabalhar com a mais nova atualização da linguagem JavaScript, a ES6, desde seus fundamentos até as funções avançadas e novos conceitos aplicados. Especialista: Celso Henrique.
 
 * Funções avançadas do ES6
-    Funções avançadas do ES6
-    Aprenda o que é e como trabalhar com Arrow Functions
-    Default Function Arguments
-    Enhanced Object Literals
-    Certifique seu conhecimento
-
+  - Funções avançadas do ES6
+  - Aprenda o que é e como trabalhar com Arrow Functions
+  - Default Function Arguments
+  - Enhanced Object Literals
+  - Certifique seu conhecimento
 * Aplicando conceitos Rest, Spread Operator e Destructuring
-    Conheça Rest e Spread Operator
-    Como usar Destructuring em ReactJS
-    Certifique seu conhecimento
-
+  - Conheça Rest e Spread Operator
+  - Como usar Destructuring em ReactJS
+  - Certifique seu conhecimento
 * Introdução a Generators
-    Symbols e Iterators
-    Aprenda sobre Generators e onde utilizá-los
-    Certifique seu conhecimento
-
+  - Symbols e Iterators
+  - Aprenda sobre Generators e onde utilizá-los
+  - Certifique seu conhecimento
 * Aplicando conceitos Promises e Fetch
-    Introdução da aula
-    Callbacks e Promises
-    Fetch, Async/Await e EventEmitter
-    Aplicando e praticando os conceitos
-    Certifique seu conhecimento
-
+  - Introdução da aula
+  - Callbacks e Promises
+  - Fetch, Async/Await e EventEmitter
+  - Aplicando e praticando os conceitos
+  - Certifique seu conhecimento
 * Conceitos aplicados a qualidade de código e automação de testes em JS
-    Introdução e conceitos da aula
-    Testes, TDD e BDD
-    Conheça Mocha, Chai e Sinon
-    Veja como trabalhar com Chai - uma excelente biblioteca
-    Desenvolvendo códigos com Sinon
-    Certifique seu conhecimento
-
+  - Introdução e conceitos da aula
+  - Testes, TDD e BDD
+  - Conheça Mocha, Chai e Sinon
+  - Veja como trabalhar com Chai - uma excelente biblioteca
+  - Desenvolvendo códigos com Sinon
+  - Certifique seu conhecimento
 * Tratamentos e exceções
-    Introdução à aula
-    Como identificar os erros
-    Debugging parte 1
-    Debugging parte 2
-    Certifique seu conhecimento
+  - Introdução à aula
+  - Como identificar os erros
+  - Debugging parte 1
+  - Debugging parte 2
+  - Certifique seu conhecimento
 
 Aulas 6/6 - Avançado - 5 hrs - <a href="https://certificates.digitalinnovation.one/3EBF4262">Certificado</a>
 
-_______________________________________________________________________________________________________________________________________________________________________
+---
 
-##### 16 - Entendendo Promises de uma vez por todas
+#### 16 - Entendendo Promises de uma vez por todas
 
 Neste projeto prático vamos mergulhar fundo no padrão Promises e entender como funciona todo o fluxo assíncrono de funções em Javascript! Especialista: Lucas Santos.
 
 Aulas 1/1 - Intermediário - 2 hrs - <a href="https://certificates.digitalinnovation.one/BCEC88FF">Certificado</a>
 
-_______________________________________________________________________________________________________________________________________________________________________
+---
 
-##### 17 - Como funciona o async/await
+#### 17 - Como funciona o async/await
 
 As promises são um recurso importante do JavaScript que podem ser aplicadas de diversas formas. Aprenda sobre o que é e como utilizar as keywords async e await para otimizar o desenvolvimento de projetos. Especialista: Rogério Munhoz.
 
 Aulas 1/1 - Intermediário - 1 hrs - <a href="https://certificates.digitalinnovation.one/BC885770">Certificado</a>
 
-_______________________________________________________________________________________________________________________________________________________________________
+---
 
-##### 18 - Solução de Problemas Essenciais
+#### 18 - Solução de Problemas Essenciais
 
 Nesse desafio de codificação você irá praticar através do desenvolvimento de algoritmos os conceitos de pensamento computacional apresentados nas aulas e exercícios anteriores.
 
-Desafios 5/5 - Intermediário
+Desafios 5/5 - Intermediário - <a href="https://github.com/danianith/BootCamp_React_Web_Developer/tree/main/desafios_de_js_sol_de_prob_Essenciais">Repositório</a>
 
-_______________________________________________________________________________________________________________________________________________________________________
+---
 
-##### 19 - Requisitando dados de uma API de criptomoedas
+#### 19 - Requisitando dados de uma API de criptomoedas
 
 Aprenda a fazer uma requisição de uma API de Criptomoeda com JavaScript. Para você que está começando a carreira de TI e gostaria de manipular APIs além de exibir essas informações em uma página web responsiva. Partes 1 até 3. Especialista: Bárbara Casac.
 
 Projeto 1/1 - Básico - 2 hrs - <a href="https://certificates.digitalinnovation.one/33904921">Certificado</a> <br>
 <a href="https://danianith.github.io/BootCamp_React_Web_Developer/projeto_API_criptomoedas/index.html">Acesse minha página aqui</a>
 
-_______________________________________________________________________________________________________________________________________________________________________
+---
 
-##### 20 - Introdução ao ReactJS
+#### 20 - Introdução ao ReactJS
 
 Aprenda os conceitos sobre ReactJS, ferramenta usada para a criação de interfaces para os usuários. Especialista: Bruno Carneiro.
 
 * Introdução ao ReactJS
-    Conheça a tecnologia ReactJS
-    Aprenda a configurar o ReactJS
-    Renderizando elementos
-    Conheça os ecossistemas do ReactJS
-    Certifique seu conhecimento
-
+  - Conheça a tecnologia ReactJS
+  - Aprenda a configurar o ReactJS
+  - Renderizando elementos
+  - Conheça os ecossistemas do ReactJS
+  - Certifique seu conhecimento
 * Integrando webpack ao desenvolvimento com ReactJS
-    O que é webpack?
-    Aprenda a configurar o webpack
-    Instalação e configuração do ESLint
-    Certifique seu conhecimento
-
+  - O que é webpack?
+  - Aprenda a configurar o webpack
+  - Instalação e configuração do ESLint
+  - Certifique seu conhecimento
 * Conceitos aplicados aos tipos de dados e condições da biblioteca
-    Renderização Condicional
-    Listas e Chaves
-    Manipulando Eventos
-    Conheça dicas para pensar do jeito ReactJS
-    Certifique seu conhecimento
+  - Renderização Condicional
+  - Listas e Chaves
+  - Manipulando Eventos
+  - Conheça dicas para pensar do jeito ReactJS
+  - Certifique seu conhecimento
 
 Aulas 3/3 - Básico - 3 hrs - <a href="https://certificates.digitalinnovation.one/277D50F8">Certificado</a>
 
-_______________________________________________________________________________________________________________________________________________________________________
-
+---
