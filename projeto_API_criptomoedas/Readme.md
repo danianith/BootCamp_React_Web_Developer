@@ -8,7 +8,7 @@ Foi proposto um exercício para nós resolvermos trazendo mais uma informação 
 
 <a href="https://danianith.github.io/BootCamp_React_Web_Developer/projeto_API_criptomoedas/index.html">Acesse minha página aqui</a>
 
-* Requisitando dados de uma API de criptomoedas - DIO
+**Requisitando dados de uma API de criptomoedas - DIO**
 
 Aprenda a fazer uma requisição de uma API de Criptomoeda com JavaScript. Para você que está começando a carreira de TI e gostaria de manipular APIs além de exibir essas informações em uma página web responsiva. Partes 1 até 3. Especialista: Bárbara Casac.
 

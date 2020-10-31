@@ -25,7 +25,7 @@ Aulas 1/1 - Básico - 1 hrs - <a href="https://certificates.digitalinnovation.on
 
 Lógica de programação é a forma como o desenvolvedor entende a comunicação a fim de programar uma função de um programa. Faz uso de algoritmos, que são sequências de passos bem estabelecidos, como por exemplo, uma receita de bolo. Especialista: Denilson Bonatti.
 
-* *Introdução à lógica e à programação*
+* Introdução à lógica e à programação
   - Entendendo o que é lógica
   - O que são algoritmos e pseudocódigo
   - Aprendendo fluxograma, variáveis e constantes
@@ -33,7 +33,7 @@ Lógica de programação é a forma como o desenvolvedor entende a comunicação
   - Como utilizar a concatenação
   - Certifique seu conhecimento
 
-* *Introdução ao Portugol*
+* Introdução ao Portugol
   - Aprenda como utilizar uma estrutura de repetição
   - O que são linguagens de programação?
   - Aprenda a utilizar desvios condicionais e boas práticas em programação 
@@ -49,33 +49,33 @@ Aulas 2/2 - Básico - 4 hrs - <a href="https://certificates.digitalinnovation.on
 
 Nesse curso vamos aprender um pouco da história do Git e como ele se tornou essencial para otimizar projetos dos desenvolvedores. Também vamos conhecer seus principais comandos, como funciona a plataforma e como ela pode simplificar o seu trabalho. Especialista: Otávio Reis.
 
-* **Introdução ao Git**
+* Introdução ao Git
   - Entendendo o que é Git e sua importância
   - Certifique seu conhecimento
 
-* **Navegação via command line interface e instalação**
+* Navegação via command line interface e instalação
   - Comandos básicos para um bom desempenho no terminal
   - Ressaltando as principais diferenças entre os sistemas operacionais
   - Certifique seu conhecimento
 
-* **Entendendo como o Git funciona por baixo dos panos**
+* Entendendo como o Git funciona por baixo dos panos
   - Tópicos fundamentais para entender o funcionamento do Git
   - Objetos internos do Git
   - Certifique seu conhecimento
 
-* **Primeiros comandos com Git**
+* Primeiros comandos com Git
   - Iniciando o Git e criando um commit
   - Certifique seu conhecimento
 
-* **Ciclo de vida dos arquivos no Git**
+* Ciclo de vida dos arquivos no Git
   - Passo a passo no ciclo de vida
   - Certifique seu conhecimento
 
-* **Introdução ao GitHub**
+* Introdução ao GitHub
   - Trabalhando com o GitHub
   - Certifique seu conhecimento
 
-* **Resolvendo conflitos**
+* Resolvendo conflitos
   - Como os conflitos acontecem no GitHub e como resolvê-los
   - Certifique seu conhecimento
 
@@ -87,7 +87,7 @@ Aulas 7/7 - Básico - 5 hrs - <a href="https://certificates.digitalinnovation.on
 
 Aprenda nesse curso sobre como funcionam as arquiteturas de softwares, seus conceitos, aplicações e desenvolvimento de operações. Especialista: Rafael Galleani.
 
-* **Vantagens e desenvolvimento de Web Services**
+* Vantagens e desenvolvimento de Web Services
   - O que são Web Services
   - Estrutura SOAP
   - Entendendo o que é WSDL e XSD
@@ -95,20 +95,20 @@ Aprenda nesse curso sobre como funcionam as arquiteturas de softwares, seus conc
   - Veja sobre integração com REST e métodos HTTP na prática
   - Certifique seu conhecimento
 
-* **Conceitos de arquitetura em aplicações para Internet**
+* Conceitos de arquitetura em aplicações para Internet
   - Introdução a arquitetura de sistemas
   - Comparando os modelos Monolito e Microserviços
   - Gerenciamento de erros e volume de acesso
   - Certifique seu conhecimento
 
-* **A arquitetura de aplicações móveis e internet das coisas**
+* A arquitetura de aplicações móveis e internet das coisas
   - Conceitos da Internet das Coisas
   - Arquitetura da internet das coisas e protocolo de comunicação
   - Flexibilidade dos tópicos e Cloud
   - Estudo de caso
   - Certifique seu conhecimento
 
-* **Arquitetura de dados essencial**
+* Arquitetura de dados essencial
   - Conceitos introdutórios e o que é um banco de dados
   - Banco de dados relacionais
   - SGDBR - SQL
@@ -125,39 +125,39 @@ Aulas 4/4 - Básico - 6 hrs - <a href="https://certificates.digitalinnovation.on
 
 Nesse curso o especialista vai contar um pouco sobre a história do HTML5 e do CSS3, explicar como funciona a estrutura básica dessas tecnologias, sua semântica, principais elementos e comandos. Especialista: Lucas Vilaboim.
 
-* **Introdução ao curso de HTML**
+* Introdução ao curso de HTML
   - Estrutura básica
   - Material de apoio
 
-* **Entendendo o que é semântica**
+* Entendendo o que é semântica
   - Semântica - Parte 1
   - Semântica - Parte 2
 
-* **Como usar textos e links em HTML**
+* Como usar textos e links em HTML
   - Tags para textos
   - Tags para links
   - Exercício prático
 
-* **Como inserir imagens em seu site**
+* Como inserir imagens em seu site
   - Tag img
   - Exercício prático
 
-* **Como organizar listas com HTML**
+* Como organizar listas com HTML
   - Tags li, ul e ol
   - Exercício prático
   - Certifique seu conhecimento
 
-* **Introdução e conceitos básicos do CSS3**
+* Introdução e conceitos básicos do CSS3
   - Introdução ao CSS3
   - Conceitos básicos
   - Material de apoio
 
-* **Estilizando elementos, textos e listas**
+* Estilizando elementos, textos e listas
   - Estilizando elementos
   - Estilizando textos
   - Estilizando listas
 
-* **Dimensão e alinhamento**
+* Dimensão e alinhamento
   - Propriedades de dimensões e alinhamento
   - Certifique seu conhecimento
 
@@ -186,13 +186,13 @@ Aulas 1/1 - Intermediário - 1 hrs - <a href="https://certificates.digitalinnova
 
 JavaScript é uma das mais importantes linguagens front-end, e nesse curso você entenderá o porquê disso e como trabalhar com ela. Especialista: Rafael Galleani.
 
-* **Introdução ao JavaScript**
+* Introdução ao JavaScript
   - Introdução ao JavaScript
   - Array e Dicionário
   - Condicionais, laços de repetição e Date
   - Certifique seu conhecimento
 
-* **Desenvolva páginas web com JavaScript**
+* Desenvolva páginas web com JavaScript
   - Desenvolva páginas web com JavaScript
   - Parte 2: Manipulando elementos da página
   - Certifique seu conhecimento
