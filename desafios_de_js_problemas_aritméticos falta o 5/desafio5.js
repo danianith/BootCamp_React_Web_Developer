@@ -28,32 +28,17 @@ Exemplos de Entrada:	 	Exemplos de Saída:
 -7 -3				3 2
 */
 
-let lista = gets().split(" ");
-let a = parseInt(lista[0]);
-let b = parseInt(lista[1]);
-
-let q;
-let r;
-
-
-    if(a<0 && b >0){
-      q = parseInt((a/b)-1)
-      r = a - (b * q)
+let line = gets().split(" ");
+let A = parseInt(line[0]);
+let B = parseInt(line[1]);
+let q = 0;
+let r = 0;
+for (resto = 0; resto < Math.abs(B); resto++) {
+    quoc = parseInt(((A - resto)/B).toFixed(0));
+    if (A === (B * quoc) + resto ) {
+      q = quoc;
+      r = resto;
     }
-   
-    if(a > 0 && b < 0){
-      q = parseInt((a/b))
-      r = a-(b * q)
-    }
-   
-    if(a > 0 && b > 0){
-      q = parseInt((a/b))
-      r = a-(b * q)
-    }
-   
-    if (a < 0 && b < 0){
-      q = parseInt((a/b)+1)
-      r= a-(b * q)
-    }
+}
+console.log(q + ' ' +r);
 
-console.log(q + " " + r);
