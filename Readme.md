@@ -32,7 +32,6 @@ Lógica de programação é a forma como o desenvolvedor entende a comunicação
   - Tomadas de decisões e expressões
   - Como utilizar a concatenação
   - Certifique seu conhecimento
-
 * Introdução ao Portugol
   - Aprenda como utilizar uma estrutura de repetição
   - O que são linguagens de programação?
@@ -52,29 +51,23 @@ Nesse curso vamos aprender um pouco da história do Git e como ele se tornou ess
 * Introdução ao Git
   - Entendendo o que é Git e sua importância
   - Certifique seu conhecimento
-
 * Navegação via command line interface e instalação
   - Comandos básicos para um bom desempenho no terminal
   - Ressaltando as principais diferenças entre os sistemas operacionais
   - Certifique seu conhecimento
-
 * Entendendo como o Git funciona por baixo dos panos
   - Tópicos fundamentais para entender o funcionamento do Git
   - Objetos internos do Git
   - Certifique seu conhecimento
-
 * Primeiros comandos com Git
   - Iniciando o Git e criando um commit
   - Certifique seu conhecimento
-
 * Ciclo de vida dos arquivos no Git
   - Passo a passo no ciclo de vida
   - Certifique seu conhecimento
-
 * Introdução ao GitHub
   - Trabalhando com o GitHub
   - Certifique seu conhecimento
-
 * Resolvendo conflitos
   - Como os conflitos acontecem no GitHub e como resolvê-los
   - Certifique seu conhecimento
@@ -94,20 +87,17 @@ Aprenda nesse curso sobre como funcionam as arquiteturas de softwares, seus conc
   - Aprenda o que são REST, API e JSON
   - Veja sobre integração com REST e métodos HTTP na prática
   - Certifique seu conhecimento
-
 * Conceitos de arquitetura em aplicações para Internet
   - Introdução a arquitetura de sistemas
   - Comparando os modelos Monolito e Microserviços
   - Gerenciamento de erros e volume de acesso
   - Certifique seu conhecimento
-
 * A arquitetura de aplicações móveis e internet das coisas
   - Conceitos da Internet das Coisas
   - Arquitetura da internet das coisas e protocolo de comunicação
   - Flexibilidade dos tópicos e Cloud
   - Estudo de caso
   - Certifique seu conhecimento
-
 * Arquitetura de dados essencial
   - Conceitos introdutórios e o que é um banco de dados
   - Banco de dados relacionais
@@ -128,35 +118,28 @@ Nesse curso o especialista vai contar um pouco sobre a história do HTML5 e do C
 * Introdução ao curso de HTML
   - Estrutura básica
   - Material de apoio
-
 * Entendendo o que é semântica
   - Semântica - Parte 1
   - Semântica - Parte 2
-
 * Como usar textos e links em HTML
   - Tags para textos
   - Tags para links
   - Exercício prático
-
 * Como inserir imagens em seu site
   - Tag img
   - Exercício prático
-
 * Como organizar listas com HTML
   - Tags li, ul e ol
   - Exercício prático
   - Certifique seu conhecimento
-
 * Introdução e conceitos básicos do CSS3
   - Introdução ao CSS3
   - Conceitos básicos
   - Material de apoio
-
 * Estilizando elementos, textos e listas
   - Estilizando elementos
   - Estilizando textos
   - Estilizando listas
-
 * Dimensão e alinhamento
   - Propriedades de dimensões e alinhamento
   - Certifique seu conhecimento
@@ -191,7 +174,6 @@ JavaScript é uma das mais importantes linguagens front-end, e nesse curso você
   - Array e Dicionário
   - Condicionais, laços de repetição e Date
   - Certifique seu conhecimento
-
 * Desenvolva páginas web com JavaScript
   - Desenvolva páginas web com JavaScript
   - Parte 2: Manipulando elementos da página
@@ -208,39 +190,36 @@ Página de login do Instagram: nesse projeto, será abordado o conceito sobre CS
 Projeto 1/1 - Básico - 2 hrs - <a href="https://certificates.digitalinnovation.one/98451885">Certificado</a><br>
 <a href="https://github.com/danianith/BootCamp_JavaScript_Game_Developer/tree/master/projeto_recriando_login_instagram">Repositório</a>
 
-_______________________________________________________________________________________________________________________________________________________________________
+---
 
-##### 09 - JavaScript ES6 essencial
+#### 09 - JavaScript ES6 essencial
 
 Nesse curso você vai conhecer a extensão ES6, do JavaScript, que foi criada com o objetivo de resolver problemas antigos da linguagem, facilitar a construção de aplicações, entre outros benefícios. Especialista: Guilherme Cabrini da Silva
 
 * Introdução ao ES6
-    História e conceitos
-    Currying, Hoisting, Imutabilidade, Tipos e Variáveis
-    Certifique seu conhecimento
-
+  - História e conceitos
+  - Currying, Hoisting, Imutabilidade, Tipos e Variáveis
+  - Certifique seu conhecimento
 * Tipos, variáveis, operadores, condicionais e repetição em JavaScript ES6
-    Tipos e variáveis
-    Functions e operadores
-    Spread, estruturas condicionais e repetição
-    Certifique seu conhecimento
-
+  - Tipos e variáveis
+  - Functions e operadores
+  - Spread, estruturas condicionais e repetição
+  - Certifique seu conhecimento
 * Orientação a objetos e Design Patterns com a linguagem ES6
-    Introdução a orientação a objetos
-    Introdução a Design Patterns
-    Certifique seu conhecimento
-
+  - Introdução a orientação a objetos
+  - Introdução a Design Patterns
+  - Certifique seu conhecimento
 * Manipulação e iteração de arrays
-    Criando e manipulando arrays
-    Iterar, buscar e transformar elementos
-    Certifique seu conhecimento
+  - Criando e manipulando arrays
+  - Iterar, buscar e transformar elementos
+  - Certifique seu conhecimento
 
 Aulas 4/4 - Intermediário - 4 hrs - <a href="https://certificates.digitalinnovation.one/8CAFC95C">Certificado</a><br>
 <a href="https://github.com/danianith/BootCamp_JavaScript_Game_Developer/tree/master/js_es6_essencial">Repositório</a>
 
-_______________________________________________________________________________________________________________________________________________________________________
+---
 
-##### 10 - Recriando a Interface do Netflix
+#### 10 - Recriando a Interface do Netflix
 
 Recrie a interface do principal site de streaming mundial utilizando tecnologias simples como HTML5, CSS3 e JavaScript. Nesse projeto você aprenderá: como estruturar um layout, técnicas de CSS3 com containers e variáveis, como posicionar os elementos com Flexbox e como utilizar plugins Jquery a favor da sua aplicação. 
 Partes 1 até 9. Especialista: Felipe Aguiar
@@ -248,7 +227,7 @@ Partes 1 até 9. Especialista: Felipe Aguiar
 Projeto 1/1 - Avançado - 5 hrs - <a href="https://certificates.digitalinnovation.one/6F408A31">Certificado</a><br>
 <a href="https://github.com/danianith/BootCamp_JavaScript_Game_Developer/tree/master/projeto_netflix">Repositório</a>
 
-_______________________________________________________________________________________________________________________________________________________________________
+---
 
 ##### 11 - Introdução a Programação
 
