@@ -362,3 +362,45 @@ Aprenda os conceitos sobre ReactJS, ferramenta usada para a criação de interfa
 Aulas 3/3 - Básico - 3 hrs - <a href="https://certificates.digitalinnovation.one/277D50F8">Certificado</a>
 
 ---
+
+#### 21 - Busca e Laços de Repetição
+
+Nesse desafio de codificação você irá praticar através do desenvolvimento de algoritmos os conceitos de pensamento computacional apresentados nas aulas e exercícios anteriores.
+
+Desafios 2/5 - Intermediário - <a href="https://github.com/danianith/BootCamp_React_Web_Developer/tree/main/desafios_de_js_busca_loops">Repositório</a>
+
+---
+
+#### 22 - Desenvolvimento de aplicações para internet com ReactJS
+
+Você aprenderá conceitos avançados sobre a combinação de Redux com React e sua aplicação. Especialista: Eduardo Costa.
+
+* Trabalhando com estilos em elementos e componentes
+  - Introdução e objetivos da aula
+  - Aprenda sobre estilização de componentes e elementos CSS
+  - Stateful vs Stateless
+  - Introdução em Formulários no ReactJS
+  - Certifique seu conhecimento
+* Introdução ao Redux e fluxos da arquitetura com ReactJS
+  - Introdução aos conceitos da aula
+  - O que é Flux?
+  - Conheça o Redux e como trabalhar com ele
+  - Aprenda a prática de como desenvolver código com React e Redux
+  - Certifique seu conhecimento
+* Comunicação avançada entre aplicações
+  - Introdução da aula
+  - Rest HTTP com React
+  - Imutabilidade e Redux
+  - Redux + Rest
+  - Certifique seu conhecimento
+* Conceitos aplicados a qualidade de código e automação de testes em React
+  - Introdução a testes em React
+  - TDD e BDD com Jest
+  - Debugging
+  - Tratamento de erros
+  - Certifique seu conhecimento
+
+Aulas 4/4 - Intermediário - 4 hrs - <a href="https://certificates.digitalinnovation.one/06B42FCA">Certificado</a>
+
+---
+
