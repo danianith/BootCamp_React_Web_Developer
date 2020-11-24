@@ -406,7 +406,7 @@ Aulas 4/4 - Intermediário - 4 hrs - <a href="https://certificates.digitalinnova
 
 #### 23 - Criando uma home com Styled Components
 
-Conheça o conceito de CSS-in-JS ou JSS e aprenda a criar uma home simples no React utilizando o styled components.
+Conheça o conceito de CSS-in-JS ou JSS e aprenda a criar uma home simples no React utilizando o styled components. Especialista: Raquel Pereira.
 
 Aulas 1/1 - Básico - 2 hrs - <a href="https://certificates.digitalinnovation.one/337EC948">Certificado</a>
 
@@ -414,7 +414,7 @@ Aulas 1/1 - Básico - 2 hrs - <a href="https://certificates.digitalinnovation.on
 
 #### 24 - Criando sua biblioteca para React
 
-No dia a dia utilizamos várias bibliotecas para React ou Javascript com o objetivo de facilitar nosso trabalho. Bibliotecas de componentes, datas, rotas, gerenciamento de estados, entre outras, são comuns na criação de aplicações. Aprenda quais são os processos e as ferramentas necessárias que facilitarão no desenvolvimento da sua primeira biblioteca para React.
+No dia a dia utilizamos várias bibliotecas para React ou Javascript com o objetivo de facilitar nosso trabalho. Bibliotecas de componentes, datas, rotas, gerenciamento de estados, entre outras, são comuns na criação de aplicações. Aprenda quais são os processos e as ferramentas necessárias que facilitarão no desenvolvimento da sua primeira biblioteca para React. Especialista: André Lins.
 
 Aulas 1/1 - Intermediário - 1 hrs - <a href="https://certificates.digitalinnovation.one/3AFB4803">Certificado</a>
 
@@ -422,15 +422,15 @@ Aulas 1/1 - Intermediário - 1 hrs - <a href="https://certificates.digitalinnova
 
 #### 25 - Como gerenciar o estado das aplicações com Redux
 
-Aprenda sobre a arquitetura Redux e como ela pode facilitar o gerenciamento dos estados da sua aplicação em React.
+Aprenda sobre a arquitetura Redux e como ela pode facilitar o gerenciamento dos estados da sua aplicação em React. Especialista: Paulo Rezende.
 
-Aulas 0/1 - Básico - 2 hrs - <a href="https://certificates.digitalinnovation.one/731E6235">Certificado</a>
+Aulas 1/1 - Básico - 2 hrs - <a href="https://certificates.digitalinnovation.one/731E6235">Certificado</a>
 
 ---
 
 #### 26 - Desenvolvendo uma Progressive Web Application com React para mapear os dados do COVID19 pelo mundo
 
-Mantenha-se informado a respeito de todos os casos do COVID19 pelo mundo criando uma "Progressive Web Application (PWA)" utilizando React e aprenda como criar uma aplicação para ser executada no browser e funcionar como aplicativo contendo algumas funcionalidades de um aplicativo nativo. Tudo rápido e fácil, sem precisar subir para a Play Store ou App Store.
+Mantenha-se informado a respeito de todos os casos do COVID19 pelo mundo criando uma "Progressive Web Application (PWA)" utilizando React e aprenda como criar uma aplicação para ser executada no browser e funcionar como aplicativo contendo algumas funcionalidades de um aplicativo nativo. Tudo rápido e fácil, sem precisar subir para a Play Store ou App Store. Especialista: Bruno Carneiro.
 
 Projeto 1/1 - Intermediário - 4 hrs - <a href="">Certificado</a>
 <a href="https://danianith.github.io/BootCamp_React_Web_Developer/projeto_pwacovid/">Acesse minha página aqui</a>
