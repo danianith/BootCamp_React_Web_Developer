@@ -404,3 +404,61 @@ Aulas 4/4 - Intermediário - 4 hrs - <a href="https://certificates.digitalinnova
 
 ---
 
+#### 23 - Criando uma home com Styled Components
+
+Conheça o conceito de CSS-in-JS ou JSS e aprenda a criar uma home simples no React utilizando o styled components.
+
+Aulas 1/1 - Básico - 2 hrs - <a href="https://certificates.digitalinnovation.one/337EC948">Certificado</a>
+
+---
+
+#### 24 - Criando sua biblioteca para React
+
+No dia a dia utilizamos várias bibliotecas para React ou Javascript com o objetivo de facilitar nosso trabalho. Bibliotecas de componentes, datas, rotas, gerenciamento de estados, entre outras, são comuns na criação de aplicações. Aprenda quais são os processos e as ferramentas necessárias que facilitarão no desenvolvimento da sua primeira biblioteca para React.
+
+Aulas 1/1 - Intermediário - 1 hrs - <a href="https://certificates.digitalinnovation.one/3AFB4803">Certificado</a>
+
+---
+
+#### 25 - Como gerenciar o estado das aplicações com Redux
+
+Aprenda sobre a arquitetura Redux e como ela pode facilitar o gerenciamento dos estados da sua aplicação em React.
+
+Aulas 0/1 - Básico - 2 hrs - <a href="https://certificates.digitalinnovation.one/731E6235">Certificado</a>
+
+---
+
+#### 26 - Desenvolvendo uma Progressive Web Application com React para mapear os dados do COVID19 pelo mundo
+
+Mantenha-se informado a respeito de todos os casos do COVID19 pelo mundo criando uma "Progressive Web Application (PWA)" utilizando React e aprenda como criar uma aplicação para ser executada no browser e funcionar como aplicativo contendo algumas funcionalidades de um aplicativo nativo. Tudo rápido e fácil, sem precisar subir para a Play Store ou App Store.
+
+Projeto 1/1 - Intermediário - 4 hrs - <a href="">Certificado</a>
+<a href="https://danianith.github.io/BootCamp_React_Web_Developer/projeto_pwacovid/">Acesse minha página aqui</a>
+
+---
+
+#### 27 - Projetos ágeis com SCRUM
+
+SCRUM é um framework utilizado no gerenciamento ágil de projetos de software. Esse curso ensinará os fundamentos e práticas da metodologia. 
+Especialistas: Thiago Sano e Diego Pereira.
+
+* Introdução ao SCRUM
+  - Introdução a Gestão de Projetos e ao SCRUM
+  - Papéis e responsabilidades de cada um do time
+  - Cerimônias do Scrum
+  - Gestão de Projetos Tradicional x Ágil
+  - Certifique seu conhecimento
+* Fundamentos de um projeto ágil
+  - Papéis e responsabilidades - Product Owner
+  - Analisando escopo e definindo prioridades
+  - Papel do PO na transformação digital
+  - Certifique seu conhecimento
+* Conceitos e atividades essenciais para o sucesso de um projeto ágil
+  - Aprenda sobre os conceitos e planejamento de tarefas
+  - Rotinas de um time ágil
+  - Certifique seu conhecimento
+
+Aulas 3/3 - Básico - 2 hrs - <a href="https://certificates.digitalinnovation.one/DF2B078F">Certificado</a>
+
+---
+
