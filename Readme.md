@@ -367,7 +367,7 @@ Aulas 3/3 - Básico - 3 hrs - <a href="https://certificates.digitalinnovation.on
 
 Nesse desafio de codificação você irá praticar através do desenvolvimento de algoritmos os conceitos de pensamento computacional apresentados nas aulas e exercícios anteriores.
 
-Desafios 2/5 - Intermediário - <a href="https://github.com/danianith/BootCamp_React_Web_Developer/tree/main/desafios_de_js_busca_loops">Repositório</a>
+Desafios 5/5 - Intermediário - <a href="https://github.com/danianith/BootCamp_React_Web_Developer/tree/main/desafios_de_js_busca_loops">Repositório</a>
 
 ---
 
@@ -466,7 +466,7 @@ Aulas 3/3 - Básico - 2 hrs - <a href="https://certificates.digitalinnovation.on
 
 Nesse desafio de codificação você irá praticar através do desenvolvimento de algoritmos os conceitos de pensamento computacional apresentados nas aulas e exercícios anteriores.
 
-Desafios 0/7 - Avançado - <a href="https://github.com/danianith/BootCamp_React_Web_Developer/tree/main/desafios_de_js_sol_problemas">Repositório</a>
+Desafios 7/7 - Avançado - <a href="https://github.com/danianith/BootCamp_React_Web_Developer/tree/main/desafios_de_js_sol_problemas">Repositório</a>
 
 ---
 
@@ -475,15 +475,34 @@ Desafios 0/7 - Avançado - <a href="https://github.com/danianith/BootCamp_React_
 Conclua o seu conhecimento de React JS com técnicas avançadas para desenvolver e otimizar o tempo dos projetos. 
 Seja um desenvolvedor front-end de alta performance! Especialista: Bruno Carneiro
 
+* Aprofundando sobre o Ciclo de Vida do React
+  - Ciclo de Vida e suas fases
+  - O que são Hooks e como ele pode otimizar o código
+  - Context API
+  - Certifique seu conhecimento
+* Técnicas com components e DOM
+  - Por que trabalhar com Fragments
+  - Error Boundaries
+  - Render Props
+  - Typechecking com PropTypes
+  - Refs e DOM
+  - Certifique seu conhecimento
+* Organizando o seu projeto
+  - O que é um Dumb Components
+  - Como trabalhar com Dumb Components
+  - E Smart Components?
+  - Finalizando o projeto
+  - Certifique seu conhecimento
+
 Aulas 3/3 - Avançado - 4 hrs - <a href="https://certificates.digitalinnovation.one/A762D9AE">Certificado</a>
 
 ---
 
 #### 30 - Criando um site para encontrar restaurantes usando Google Maps que consulta API do Google
 
-Nesse projeto vamos construir junto com o especialista um sistema web de busca de restaurantes, parecido com o serviço que o Google oferece. Vamos desenvolver esse buscador usando React.JS e API do Google, iniciando do zero à nuvem.
+Nesse projeto vamos construir junto com o especialista um sistema web de busca de restaurantes, parecido com o serviço que o Google oferece. Vamos desenvolver esse buscador usando React.JS e API do Google, iniciando do zero à nuvem. Especialista: Patrick Narciso
 
-Projeto 1/1 - Avançado - 10 hrs - <a href="">Certificado</a><br>
+Projeto 1/1 - Avançado - 10 hrs - <a href="https://certificates.digitalinnovation.one/915322C0">Certificado</a><br>
 <a href="https://danianith.github.io/BootCamp_React_Web_Developer/projeto_API_restaurante">Acesse minha página aqui</a>
 
 ---
@@ -492,6 +511,6 @@ Projeto 1/1 - Avançado - 10 hrs - <a href="">Certificado</a><br>
 
 Nesse desafio de codificação você irá praticar através do desenvolvimento de algoritmos os conceitos de pensamento computacional apresentados nas aulas e exercícios anteriores.
 
-Desafios 0/5 - Avançado - <a href="https://github.com/danianith/BootCamp_React_Web_Developer/tree/main/desafios_de_js_res_algoritmos">Repositório</a>
+Desafios 5/5 - Avançado - <a href="https://github.com/danianith/BootCamp_React_Web_Developer/tree/main/desafios_de_js_res_algoritmos">Repositório</a>
 
 
