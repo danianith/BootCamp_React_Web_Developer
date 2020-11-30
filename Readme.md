@@ -462,3 +462,19 @@ Aulas 3/3 - Básico - 2 hrs - <a href="https://certificates.digitalinnovation.on
 
 ---
 
+#### 28 - Solução de Problemas Cotidianos
+
+Nesse desafio de codificação você irá praticar através do desenvolvimento de algoritmos os conceitos de pensamento computacional apresentados nas aulas e exercícios anteriores.
+
+Desafios 0/7 - Avançado
+
+---
+
+#### 29 - Práticas avançadas em projetos com ReactJS
+
+Conclua o seu conhecimento de React JS com técnicas avançadas para desenvolver e otimizar o tempo dos projetos. 
+Seja um desenvolvedor front-end de alta performance! Especialista: Bruno Carneiro
+
+Aulas 3/3 - Avançado - 4 hrs - <a href="https://certificates.digitalinnovation.one/A762D9AE">Certificado</a>
+
+
