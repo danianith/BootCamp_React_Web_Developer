@@ -432,7 +432,7 @@ Aulas 1/1 - Básico - 2 hrs - <a href="https://certificates.digitalinnovation.on
 
 Mantenha-se informado a respeito de todos os casos do COVID19 pelo mundo criando uma "Progressive Web Application (PWA)" utilizando React e aprenda como criar uma aplicação para ser executada no browser e funcionar como aplicativo contendo algumas funcionalidades de um aplicativo nativo. Tudo rápido e fácil, sem precisar subir para a Play Store ou App Store. Especialista: Bruno Carneiro.
 
-Projeto 1/1 - Intermediário - 4 hrs - <a href="">Certificado</a><br>
+Projeto 1/1 - Intermediário - 4 hrs - <a href="https://certificates.digitalinnovation.one/5F234CA4">Certificado</a><br>
 <a href="https://danianith.github.io/BootCamp_React_Web_Developer/projeto_pwacovid/">Acesse minha página aqui</a>
 
 ---
@@ -466,7 +466,7 @@ Aulas 3/3 - Básico - 2 hrs - <a href="https://certificates.digitalinnovation.on
 
 Nesse desafio de codificação você irá praticar através do desenvolvimento de algoritmos os conceitos de pensamento computacional apresentados nas aulas e exercícios anteriores.
 
-Desafios 0/7 - Avançado
+Desafios 0/7 - Avançado - <a href="https://github.com/danianith/BootCamp_React_Web_Developer/tree/main/desafios_de_js_sol_problemas">Repositório</a>
 
 ---
 
@@ -476,5 +476,22 @@ Conclua o seu conhecimento de React JS com técnicas avançadas para desenvolver
 Seja um desenvolvedor front-end de alta performance! Especialista: Bruno Carneiro
 
 Aulas 3/3 - Avançado - 4 hrs - <a href="https://certificates.digitalinnovation.one/A762D9AE">Certificado</a>
+
+---
+
+#### 30 - Criando um site para encontrar restaurantes usando Google Maps que consulta API do Google
+
+Nesse projeto vamos construir junto com o especialista um sistema web de busca de restaurantes, parecido com o serviço que o Google oferece. Vamos desenvolver esse buscador usando React.JS e API do Google, iniciando do zero à nuvem.
+
+Projeto 1/1 - Avançado - 10 hrs - <a href="">Certificado</a><br>
+<a href="https://danianith.github.io/BootCamp_React_Web_Developer/projeto_API_restaurante">Acesse minha página aqui</a>
+
+---
+
+#### 31 - Resolvendo Algoritmos
+
+Nesse desafio de codificação você irá praticar através do desenvolvimento de algoritmos os conceitos de pensamento computacional apresentados nas aulas e exercícios anteriores.
+
+Desafios 0/5 - Avançado - <a href="https://github.com/danianith/BootCamp_React_Web_Developer/tree/main/desafios_de_js_res_algoritmos">Repositório</a>
 
 
